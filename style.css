@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(154, 113, 193);
+}
+
+.header-logo a {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+}
+
+.header-links a {
+    margin: 0 4%;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+.header-links a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+.mySlides {
+    margin-left: -5px;
+}
+
+.page-img {
+    background-color: rgb(195, 181, 209);
+}
+
+.page-img h3 {
+    color: white;
+    padding: 5% 39%;
+    font-size: 2.3rem;
+    letter-spacing: 2px;
+}
+
+.product-list img {
+    border-radius: 10px;
+}
